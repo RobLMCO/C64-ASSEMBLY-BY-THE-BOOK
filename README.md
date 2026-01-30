@@ -2,4 +2,4 @@
 A reference of Commodore 64 Assembly Language Programming code listings from various books and mags
 
 
-Compute!'s Beginner's Guide to Commodore 64 Sound by John Hellborn 1985
+B1: Compute!'s Beginner's Guide to Commodore 64 Sound by John Hellborn 1985
